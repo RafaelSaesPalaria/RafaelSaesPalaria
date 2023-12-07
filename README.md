@@ -1,6 +1,6 @@
 # Introduction
 Hi, I'm **@RafaelSaesPalaria**  
-my knowledments are mostly in Java  
+my knowledge is mainly in Java
 I'm currently learning JS/Python/Java  
 I have a intermediate level of english  
 I always have interest in learning new things
