@@ -12,6 +12,5 @@ https://twitter.com/RafaelSPalaria
 https://www.linkedin.com/in/rafael-saes-palaria/  
 [![LinkedIn](res/LinkedIn.png)](https://www.linkedin.com/in/rafael-saes-palaria/)  
 
-
 # Contact
 you can contact me on: rafaelsaespalaria@gmail.com
