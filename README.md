@@ -7,7 +7,7 @@ Systems development analyst
 Please check my Projects over there  
 [![Portfolio](res/portfolio-64.png)](https://rafaelsaespalaria.github.io/portfolio/)  
 # Social
-[![Twitter](res/X-64.png)](https://twitter.com/RafaelSPalaria)  
+[![Twitter](res/X-64.png)](https://twitter.com/RafaelSPalaria) 
 [![LinkedIn](res/LinkedIn-64.png)](https://www.linkedin.com/in/rafael-saes-palaria/)  
 
 # Contact
